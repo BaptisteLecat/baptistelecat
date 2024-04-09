@@ -12,7 +12,7 @@ Im a last year student in Computer Science Master Degree<br><br>Flutter and Goog
 ## ✨ Personal
 ### _Portfolio_
 <p align="center">
-    <a href="https://github.com/BaptisteLecat/portfolio_app"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=BaptisteLecat&repo=portfolio_app&theme=transparent&show_icons=false" alt="Portefolio App"></a>
+    <a href="https://github.com/BaptisteLecat/portfolio_app"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=BaptisteLecat&repo=portfolio_app&theme=transparent&show_icons=false" alt="Portfolio App"></a>
 </p>
 
 #### Available on the Play Store
