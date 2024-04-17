@@ -1,6 +1,12 @@
 # 💫 About Me:
-Im a last year student in Computer Science Master Degree<br><br>Flutter and Google Cloud Enthousiast
 
+Flutter Developer & Cloud Expert | Seeking Innovation and Technical Excellence
+
+I am Baptiste Lecat, a final year student at EPSI Nantes, specializing in Flutter development and JavaScript technologies. Experienced in cloud migration with GCP and CI/CD, I have contributed to innovative projects at Windle, notably leading the migration to the cloud and developing CI/CD processes with GitLab.
+
+My personal projects reflect my passion for technology, such as developing interactive and innovative mobile applications. Currently, I am working towards a Google Cloud Architect certification, aiming for a future as a Cloud Architect or Lead Tech.
+
+I am always open to new opportunities and collaborations. Feel free to contact me to discuss technology and innovation.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/baptiste-lecat) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19101705) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Baptiste_Lecat)
