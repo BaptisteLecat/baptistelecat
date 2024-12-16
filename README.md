@@ -92,17 +92,6 @@ I am always open to new opportunities and collaborations. Feel free to contact m
 ![windle_pres](https://github.com/BaptisteLecat/baptistelecat/assets/60200125/687dccc5-3d8c-4d15-be31-85a37d4254a1)
 <br/><br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=baptistelecat&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=baptistelecat&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=baptistelecat&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=baptistelecat&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=baptistelecat&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=baptistelecat&icon=7&color=8)](https://visitcount.itsvg.in)
 
