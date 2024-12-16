@@ -64,7 +64,7 @@ I am always open to new opportunities and collaborations. Feel free to contact m
 <a href="https://play.google.com/store/apps/details?id=com.baptistelecat.portfolioapp&pcampaignid=web_share"><img src="https://github.com/BaptisteLecat/baptistelecat/assets/60200125/596d6840-5979-4a4b-a598-f975b3ff5922" alt="Play Store" width="40"/></a>
 
 ![portfolio_pres](https://github.com/BaptisteLecat/baptistelecat/assets/60200125/707de868-e9f4-47bf-bc98-013256691ab7)
-<br/><br/>
+<br/><hr><br/>
 ### _WeatherJourney_
 <p align="center">
     <a href="https://github.com/BaptisteLecat/weather_journey"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=BaptisteLecat&repo=weather_journey&theme=transparent&show_icons=false" alt="Weather Journey App"></a>
@@ -79,7 +79,7 @@ I am always open to new opportunities and collaborations. Feel free to contact m
 <a href="https://play.google.com/store/apps/details?id=com.baptistelecat.weatherjourney&pcampaignid=web_share"><img src="https://github.com/BaptisteLecat/baptistelecat/assets/60200125/596d6840-5979-4a4b-a598-f975b3ff5922" alt="Play Store" width="40"/></a>
 
 ![weather_journey_pres](https://github.com/BaptisteLecat/baptistelecat/assets/60200125/c74e3831-a5d1-48ec-a0d4-725a192ade35)
-<br/><br/><br/><br/>
+<br/><hr><br/><br/><br/>
 ## 👞 Work
 ### _Windle_
 
