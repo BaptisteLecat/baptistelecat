@@ -1,8 +1,10 @@
 # 💫 About Me:
 
-Flutter Developer & Cloud Expert | Seeking Innovation and Technical Excellence
+Flutter Developer & Google Cloud Expert | Seeking Innovation and Technical Excellence
 
-I am Baptiste Lecat, a final year student at EPSI Nantes, specializing in Flutter development and JavaScript technologies. Experienced in cloud migration with GCP and CI/CD, I have contributed to innovative projects at Windle, notably leading the migration to the cloud and developing CI/CD processes with GitLab.
+I am Baptiste Lecat, a Cloud Architect at UTech for Onepoint, specializing Cloud migration with GCP, Devops, Containerization and CI/CD. Experienced in Flutter development and JavaScript technologies, I have contributed to innovative projects at Windle, notably leading the migration to the cloud and developing CI/CD processes with GitLab to enhance the ability to deploy on mobile Stores.
+Today im working on the Cloud migration of UTech, from IBMI to Google Cloud, over 700 services/api/website has to be migrated.
+
 
 My personal projects reflect my passion for technology, such as developing interactive and innovative mobile applications. Currently, I am working towards a Google Cloud Architect certification, aiming for a future as a Cloud Architect or Lead Tech.
 
