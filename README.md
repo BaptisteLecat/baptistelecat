@@ -9,7 +9,6 @@ Today im working on the Cloud migration of UTech, from IBMI to Google Cloud, ove
 My personal projects reflect my passion for technology, such as developing interactive and innovative mobile applications. Currently, I am working towards a Google Cloud Architect certification, aiming for a future as a Cloud Architect or Lead Tech.
 
 I am always open to new opportunities and collaborations. Feel free to contact me to discuss technology and innovation.
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/baptiste-lecat) [![Bento](https://img.shields.io/badge/Bento-768CFF.svg?style=for-the-badge&logo=Bento&logoColor=white)](https://bento.me/baptistelecat) [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/19101705) [![Twitch](https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/Baptiste_Lecat) [![ReadCV](https://img.shields.io/badge/Read.cv-111111.svg?style=for-the-badge&logo=readdotcv&logoColor=white)](https://read.cv/baptistelecat) 
 
@@ -18,7 +17,6 @@ I am always open to new opportunities and collaborations. Feel free to contact m
 ## Google Cloud Profesionnal Architect Certified ! 🎉
 
 <a href="https://www.credly.com/badges/69a9f027-cd73-45c2-9d36-c7054c1edf29/public_url"><img width="234" height="234" alt="professional-cloud-architect-certification" src="https://github.com/user-attachments/assets/d9e2b820-f4ac-4ec9-bfcb-23fe30f6c11e" /></a>
-
 <br/>
 
 ## 🛠️ Technologies & Tools:
