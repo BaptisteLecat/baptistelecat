@@ -15,6 +15,12 @@ I am always open to new opportunities and collaborations. Feel free to contact m
 
 <br/>
 
+## Google Cloud Profesionnal Architect Certified ! 🎉
+
+<a href="https://www.credly.com/badges/69a9f027-cd73-45c2-9d36-c7054c1edf29/public_url"><img width="234" height="234" alt="professional-cloud-architect-certification" src="https://github.com/user-attachments/assets/d9e2b820-f4ac-4ec9-bfcb-23fe30f6c11e" /></a>
+
+<br/>
+
 ## 🛠️ Technologies & Tools:
 ### Languages
 ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=TypeScript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
